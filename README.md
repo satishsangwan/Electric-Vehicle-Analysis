@@ -1,7 +1,9 @@
-# Electric-Vehicle-Analysis
-# Project: Atliq Motors - Resume Challenge 12
-## Provide Insights to an Automotive company on Electric vehicles launch in India
+<h1 align="center">Electric-Vehicle-Analysis</h1> 
+
+# Project: Resume Challenge 12 - Provide Insights to an Automotive company on Electric vehicles launch in India
+
 ## Project Overview
+
 
 **Domain:** Automotive Industry  
 **Function:** Executive Management  
@@ -16,16 +18,15 @@ Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market st
 ## Table of Contents
 
 1. [Data Model](#data-model)
-2. [Project Tasks](#project-tasks)
+2. [Project Tasks](#project-tasks-primary-questions)
 3. [Task-wise Insights and Recommendations](#task-wise-insights-and-recommendations)
-4. [Overall Summary](#overall-summary)
-5. [Recommendations](#recommendations)
-6. [Technical Details](#technical-details)
-7. [Power BI Dashboard](#power-bi-dashboard)
-8. [Installation and Usage](#installation-and-usage)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Contact](#contact)
+4. [Secondary Research Questions](#secondary-research-questions)
+5. [Technical Details](#technical-details)
+6. [Power BI Dashboard](#power-bi-dashboard)
+7. [Installation and Usage](#installation-and-usage)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact](#contact)
 
 ## Data Model
 We are provided with 3 different data tables namely dim_date, electric_vehicle_sales_by_makers, electric_vehicle_sales_by_state and also shown in entity relationship diagram (ERD) below:
