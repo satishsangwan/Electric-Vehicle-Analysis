@@ -106,7 +106,7 @@ We are provided with 3 different data tables namely dim_date, electric_vehicle_s
 ### Task 10
 **Request:** Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.
 <p align="center">
-  <img src=" https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_10.png" width="500" height="300" /> 
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_10.png" width="500" height="300" /> 
 </p>
 
 ## Task-wise Insights and Recommendations
