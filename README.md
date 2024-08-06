@@ -355,17 +355,17 @@ These recommendations, backed by market insights and consumer behavior data, can
 
 ## Power BI Dashboard
 
-Additionally, an interactive Power BI dashboard was created to analyze customer, product, and sales data, providing a comprehensive view of EV Market in India.
+Additionally, an interactive Power BI dashboard was created to analyze makers and states data, providing a comprehensive view of EV Market in India.
 
-![Description](https://drive.google.com/uc?export=view&id=1gAoy41VDK8EiiIA5-UB7da5pJoPjTrnd)
+[PowerBi Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2MyMTFiNGQtNjZlNy00YThmLWIxZmEtMzRiYmFhMzhjODM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Installation and Usage
 To use the SQL scripts, follow these steps:
 
 1. **Clone the Repository:**
 
-git clone https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis.git
-cd AtliQ-Hardwares-SQL-Analysis
+git clone https://github.com/satishsangwan/Electric-Vehicle-Analysis.git
+cd Electric-Vehicle-Analysis
 
 2. **Set Up Your Environment:**
 
@@ -374,12 +374,12 @@ Open MySQL Workbench and connect to your database.
 
 3. **Run the SQL Scripts:**
 
-Open SQL_Queries_for_Resume_Challenge_Project_4.sql in MySQL Workbench.
+Open Primary_Questions_SQL_Scripts.sql in MySQL Workbench.
 Execute the queries in your MySQL Workbench environment to generate the reports.
 
 4. **Review the Presentation:**
 
-Open Adhoc_SQL_Insights_Presentation.pdf to view the detailed analysis and visualizations.
+Open Resume_Challenge_12_Presentation.pdf to view the detailed analysis and visualizations.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or additional analyses.
