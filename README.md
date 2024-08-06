@@ -31,80 +31,83 @@ Bruce Haryali, the chief of AtliQ Motors India wanted to do a detailed market st
 ## Data Model
 We are provided with 3 different data tables namely dim_date, electric_vehicle_sales_by_makers, electric_vehicle_sales_by_state and also shown in entity relationship diagram (ERD) below:
 
-**ERD** ![ERD](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis-RC4/blob/main/images/Entity%20Relationship%20Diagram.png)
+**ERD** ![ERD](https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/ERD_RC12.png)
 
 
 ## Project Tasks (Primary Questions)
 
 ### Task 1
 **Request:** List the top 3 and bottom 3 makers for the fiscal years 2023 and 2024 in terms of the number of 2-wheelers sold.
-
-**SQL Query** ![SQL QUERY](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis-RC4/blob/main/images/Task-1.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_1_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_T_23.png" width="400" height="250" />
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_T_24.png" width="400" height="250" /> 
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_B_23.png" width="400" />
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_1_B_24.png" width="400" />
+</p>
 
 ### Task 2
 **Request:** Identify the top 5 states with the highest penetration rate in 2-wheeler and 4-wheeler EV sales in FY 2024.
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task-2.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_2_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_2_2W.png" width="400" height="500" />
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_2_4W.png" width="400" height="500" /> 
+</p>
 
 ### Task 3
 **Request:** List the states with negative penetration (decline) in EV sales from 2022 to 2024?
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---3.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_3_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_3.png" width="800" height="500" /> 
+</p>
 
 ### Task 4
 **Request:** What are the quarterly trends based on sales volume for the top 5 EV makers (4-wheelers) from 2022 to 2024?
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---4.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_4_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_4.png" width="800" height="500" /> 
+</p>
 
 ### Task 5
 **Request:** How do the EV sales and penetration rates in Delhi compare to Karnataka for 2024?
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---5.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_5_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_5_EVSales.png" width="400" height="450" /> 
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_5_PR.png" width="400" height="450" /> 
+</p>
 
 ### Task 6
 **Request:** List down the compounded annual growth rate (CAGR) in 4-wheeler units for the top 5 makers from 2022 to 2024.
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---6.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_6_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_6.png" width="800" height="500" /> 
+</p>
 
 ### Task 7
 **Request:** List down the top 10 states that had the highest compounded annual growth rate (CAGR) from 2022 to 2024 in total vehicles sold.
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---7.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_7_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_7.png" width="800" height="500" /> 
+</p>
 
 ### Task 8
 **Request:** What are the peak and low season months for EV sales based on the data from 2022 to 2024?
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---8.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_8_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_8.png" width="800" height="500" /> 
+</p>
 
 ### Task 9
 **Request:** What is the projected number of EV sales (including 2-wheelers and 4-wheelers) for the top 10 states by penetration rate in 2030, based on the compounded annual growth rate (CAGR) from previous years? 
 
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---9.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_9_Output.png)
+<p align="center">
+  <img src="https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_9.png" width="500" height="500" /> 
+</p>
 
 ### Task 10
 **Request:** Estimate the revenue growth rate of 4-wheeler and 2-wheelers EVs in India for 2022 vs 2024 and 2023 vs 2024, assuming an average unit price.
-
-**SQL Query** ![SQL Query](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task---10.png)
-
-**Out-Put** ![Out-Put](https://github.com/satishsangwan/AtliQ-Hardwares-SQL-Analysis/blob/main/images/Task_10_Output.png)
+<p align="center">
+  <img src=" https://github.com/satishsangwan/Electric-Vehicle-Analysis/blob/main/images/Task_10.png" width="500" height="300" /> 
+</p>
 
 ## Task-wise Insights and Recommendations
 
